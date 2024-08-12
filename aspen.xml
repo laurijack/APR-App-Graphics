@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+<panel>
+<number>1</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App Rotator1_City Market.jpg?raw=true</image>
+<url>https://www.aspenpublicradio.org/station-news/2019-10-14/support-aspen-public-radio-with-your-everyday-shopping</url>
+<redirect>n</redirect>
+</panel>
+
+<panel>
+<number>2</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App Rotator2_Cars.jpg?raw=true</image>
+<url>https://aspenpublicradio.careasy.org/home</url>
+<redirect>n</redirect>
+</panel>
+
+<panel>
+<number>3</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App Rotator3_Transmitter.jpg?raw=true</image>
+<url>https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E103121&amp;id=40</url>
+<redirect>n</redirect>
+</panel>
+
+<panel>
+<number>4</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App Rotator4_Elections.jpg?raw=true</image>
+<url>https://www.aspenpublicradio.org/government/2024-02-22/aspen-public-radios-2024-election-guide</url>
+<redirect>n</redirect>
+</panel>
+
+<panel>
+<number>5</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App Rotator5_Noticias.jpg?raw=true</image>
+<url>https://www.aspenpublicradio.org/noticias-y-actualizaciones-en-espanol</url>
+<redirect>n</redirect>
+</panel>
+  
