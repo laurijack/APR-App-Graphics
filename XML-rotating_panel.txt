@@ -3,7 +3,7 @@
 <panel>
 <number>1</number>
 <image>https://app.grovecms.org/cms/content/edit.jsp?id=0000018f-c524-dbeb-a5df-cff513640000&typeId=4da1a812-2b2b-36a7-a321-fea9c9594cb9</image>
-<url>https://www.aspenpublicradio.org/station-news/2019-10-14/support-aspen-public-radio-with-your-everyday-shopping</url>
+<url>https://www.aspenpublicradio.org/support-aspen-public-radio-with-city-markets-community-rewards-program</url>
 <redirect>n</redirect>
 </panel>
 
