@@ -24,7 +24,7 @@
 <panel>
 <number>4</number>
 <image>https://app.grovecms.org/cms/content/edit.jsp?id=0000018f-c52c-dd25-a1df-cdbd87e60000&typeId=4da1a812-2b2b-36a7-a321-fea9c9594cb9</image>
-<url>https://www.aspenpublicradio.org/government/2024-02-22/aspen-public-radios-2024-election-guide</url>
+<url>https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E103121&id=66</url>
 <redirect>n</redirect>
 </panel>
 
