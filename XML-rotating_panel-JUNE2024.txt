@@ -24,7 +24,7 @@
 <panel>
 <number>4</number>
 <image>https://github.com/laurijack/APR-App-Graphics/blob/main/App%20Rotator4_Elections.jpg</image>
-<url>https://www.aspenpublicradio.org/government/2024-02-22/aspen-public-radios-2024-election-guide</url>
+<url>https://www.aspenpublicradio.org/tags/elections-2025</url>
 <redirect>n</redirect>
 </panel>
 
@@ -34,5 +34,6 @@
 <url>https://www.aspenpublicradio.org/noticias-y-actualizaciones-en-espanol</url>
 <redirect>n</redirect>
 </panel>
+
 
 </rotator>
