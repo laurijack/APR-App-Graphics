@@ -24,7 +24,7 @@
 <panel>
 <number>4</number>
 <image>https://github.com/laurijack/APR-App-Graphics/blob/main/App%20Rotator4_Elections.jpg</image>
-<url>https://www.aspenpublicradio.org/tags/elections-2025</url>
+<url>https://www.aspenpublicradio.org/government/2026-03-12/aspen-public-radios-spring-2026-municipal-election-guide</url>
 <redirect>n</redirect>
 </panel>
 
