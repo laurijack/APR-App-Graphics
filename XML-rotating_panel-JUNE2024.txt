@@ -17,7 +17,7 @@
 <panel>
 <number>3</number>
 <image>https://github.com/laurijack/APR-App-Graphics/blob/main/App%20Rotator3_Transmitter.jpg</image>
-<url>https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E103121&id=40</url>
+<url>https://form-renderer-app.donorperfect.io/give/aspen-public-radio/apr-donation-form-2026</url>
 <redirect>n</redirect>
 </panel>
 
